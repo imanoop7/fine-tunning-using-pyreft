@@ -21,7 +21,7 @@ To run the fine-tuning process, you need the following dependencies:
 
 - Python 3.8+
 - Jupyter Notebook
-- Pyreft
+- Pyreft(https://github.com/stanfordnlp/pyreft)
 - PyTorch
 - Transformers (Hugging Face)
 - Datasets (Hugging Face)
