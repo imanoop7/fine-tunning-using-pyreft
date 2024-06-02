@@ -48,7 +48,9 @@ Open the Jupyter notebook and follow the steps to fine-tune your model:
 
 2. Open `fine_tuning_using_pyreft.ipynb` in your browser.
 
-3. Follow the instructions within the notebook to load the dataset, configure the model, and initiate the fine-tuning process.
+3. Open `llama3_fine_tunning_pyreft.ipynb` in your brower
+
+4. Follow the instructions within the notebook to load the dataset, configure the model, and initiate the fine-tuning process.
 
 ## Contributing
 
